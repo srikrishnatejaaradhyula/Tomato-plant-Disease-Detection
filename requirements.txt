@@ -7,3 +7,4 @@ matplotlib
 Werkzeug
 flask-login
 gunicorn
+Flask-SQLAlchemy
